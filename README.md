@@ -10,7 +10,6 @@ This is a repository contains a guide to how to CFW (Custom Frimware) your Ninte
 - [3DSident](https://github.com/joel16/3DSident/)
 - [Anemone3DS](https://github.com/astronautlevel2/Anemone3DS)
 - [Checkpoint](https://github.com/FlagBrew/Checkpoint)
-- [ClearMACFilter
 - [CtrRGBPATTY](https://github.com/CPunch/CtrRGBPATTY)
 - [FBI](https://github.com/Steveice10/FBI)
 - [For-Anyone-Who-Walks-A-Lot](https://github.com/iamevn/for-anyone-who-walks-a-lot)
