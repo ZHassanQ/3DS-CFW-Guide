@@ -2,11 +2,11 @@
 This is a repository contains a guide to how to CFW (Custom Frimware) your Nintendo 3DS. (Guide from 3DS.Hacks.Guide)
 
 
-## 33
+## Apps (CIA's)
 
 - [3DSFetch](https://github.com/videah/3dsfetch)
 - [3DS-HBMenu](https://github.com/devkitPro/3ds-hbmenu)
-- [3DS-PluginsFokder](https://github.com/Klairm/3DS-PluginsFolder)
+- [3DS-PluginsFolder](https://github.com/Klairm/3DS-PluginsFolder)
 - [3DSident](https://github.com/joel16/3DSident/)
 - [Anemone3DS](https://github.com/astronautlevel2/Anemone3DS)
 - [Checkpoint](https://github.com/FlagBrew/Checkpoint)
