@@ -18,10 +18,12 @@ This is a repository contains a guide to how to CFW (Custom Frimware) your Ninte
 - [ScreenInfo](https://github.com/SciresM/ScreenInfo)
 - [SpecializeMii](https://github.com/rboninsegna/SpecializeMii/)
 - [RetroArch](https://github.com/libretro/RetroArch)
+- [Themely](https://github.com/ihaveamac/Themely)
 - [TSI9](https://github.com/JohnodonCode/TSI9)
 
 
 ## Others
 
+- [3DS-Wiki-Brew](https://www.3dbrew.org/)
 - [ClearMACFilter](https://gbatemp.net/threads/release-clear-mac-filter.515882/)
 - [Modern UI](https://gbatemp.net/threads/icon-pack-modern-ui.404366/)
