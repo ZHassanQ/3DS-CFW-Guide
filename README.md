@@ -38,3 +38,11 @@ This is a repository contains a guide to how to install CFW (Custom Frimware) yo
 - [3DS-Wiki-Brew](https://www.3dbrew.org/)
 - [ClearMACFilter](https://gbatemp.net/threads/release-clear-mac-filter.515882/)
 - [Modern UI](https://gbatemp.net/threads/icon-pack-modern-ui.404366/)
+
+
+## Online
+
+These two websites; require internet connection to fully hack your Nintendo 3DS.
+
+- https://seedminer.hacks.guide
+- http://3dstools.nhnarwhal.com/#/bb3gen
