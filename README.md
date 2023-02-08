@@ -2,6 +2,15 @@
 This is a repository contains a guide to how to install CFW (Custom Frimware) your Nintendo 3DS. (Guide from 3DS.Hacks.Guide)
 
 
+## Custom Frimware & Essentials
+
+- [b9stool](https://github.com/zoogie/b9sTool/)
+- [boot9strap](https://github.com/SciresM/boot9strap/)
+- [Frogminer](https://github.com/zoogie/Frogminer/)
+- [Luma3DS](https://github.com/LumaTeam/Luma3DS/)
+- [SafeB9SInstaller](https://github.com/d0k3/SafeB9SInstaller/)
+- [unSAFE_MODE](https://github.com/zoogie/unSAFE_MODE/releases/)
+
 ## Apps (CIA's)
 
 - [3DSFetch](https://github.com/videah/3dsfetch)
