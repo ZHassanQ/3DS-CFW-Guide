@@ -45,4 +45,4 @@ This is a repository contains a guide to how to install CFW (Custom Frimware) yo
 These two websites; require internet connection to fully hack your Nintendo 3DS.
 
 - https://seedminer.hacks.guide
-- http://3dstools.nhnarwhal.com/#/bb3gen
+- http://3dstools.nhnarwhal.com
