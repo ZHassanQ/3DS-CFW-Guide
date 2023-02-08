@@ -23,13 +23,15 @@ This is a repository contains a guide to how to install CFW (Custom Frimware) yo
 - [FBI](https://github.com/Steveice10/FBI)
 - [For-Anyone-Who-Walks-A-Lot](https://github.com/iamevn/for-anyone-who-walks-a-lot)
 - [FTPD](https://github.com/mtheall/ftpd)
+- [GodMode9](https://github.com/d0k3/GodMode9/)
+- [Homebrew-Launcher-Dummy](https://github.com/PabloMK7/homebrew_launcher_dummy)
 - [NFCReader](https://github.com/MrJPGames/NFCReader)
 - [ScreenInfo](https://github.com/SciresM/ScreenInfo)
 - [SpecializeMii](https://github.com/rboninsegna/SpecializeMii/)
 - [RetroArch](https://github.com/libretro/RetroArch)
 - [Themely](https://github.com/ihaveamac/Themely)
 - [TSI9](https://github.com/JohnodonCode/TSI9)
-
+- [Universal-Updater](https://github.com/Universal-Team/Universal-Updater/)
 
 ## Others
 
