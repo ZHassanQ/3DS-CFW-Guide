@@ -1,5 +1,5 @@
 # 3DS-CFW-Guide
-This is a repository contains a guide to how to install CFW (Custom Frimware) your Nintendo 3DS. (Guide from 3DS.Hacks.Guide) This repoistory follows "Seedminer" routes to provide the latest up-to-date version. Sadly there is no way to fully offline hack your 3DS without using internet connection.
+This is a repository contains a guide to how to install CFW (Custom Frimware) your Nintendo 3DS. (Guide from 3DS.Hacks.Guide) This repoistory follows "Seedminer" routes to provide the latest up-to-date version. Sadly there is no way to fully offline hack your 3DS without using internet connection. CFW & every apps, essentials mentioned in the guide availabe to download in releases just in case it goes removed.
 
 
 ## Custom Frimware & Essentials
